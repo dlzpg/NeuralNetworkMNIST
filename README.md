@@ -6,7 +6,7 @@ Forward pass, backpropagation, gradient descent, evaluation and weight saving/lo
 
 ## Results
 
-Tweak as u like in order to get other results.
+Tweak as you like in order to get other results.
 
 | Dataset | Samples | Accuracy |
 |---|---|---|
